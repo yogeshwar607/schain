@@ -18,8 +18,8 @@ There are 2 small parts to successfully running this project.
 
 ### Part 1
 
-1. `git clone https://github.com/shekhar-shubhendu/supply-chain.git`
-2. `cd supply-chain`
+1. `git clone git@github.com:yogeshwar607/schain.git`
+2. `cd schain`
 3. `npm install`
 4. `npm install -g @angular/cli@latest`
 (linux users might have to do: `sudo npm install -g @angular/cli@latest`)
@@ -47,9 +47,6 @@ There are 2 small parts to successfully running this project.
 4. `/manufacturer`
 5. `/supplier`
 
-### Todo:
-
-1. Access IPFS from browser (Remove separate script for IPFS upload).
 
 ## Technologies & Languages Used:
 1. Angular4 (Typescript/Javascript)
@@ -58,12 +55,3 @@ There are 2 small parts to successfully running this project.
 4. Node.js
 5. Express
 
-## Acknowledgments
-
-* [Nikhil Bhaskar](https://github.com/Nikhil22) for [Angular CLI + Truffle Starter Dapp](https://github.com/Nikhil22/angular4-truffle-starter-dapp)
-* [MyEtherWallet](https://github.com/kvhnuke/etherwallet)
-
-
-## License
-
-[GNU GPLv3](./LICENSE)
